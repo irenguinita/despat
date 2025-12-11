@@ -1,0 +1,21 @@
+Structural
+
+Adapter
+- Wo
+
+
+
+
+Decorator
+ - allows to add functionality to an object at *run-time* without altering its structure
+ - thru decorators, additional functionality can be added at runtime, like scrolling and border
+  - this is more flexible than deriving classes like ScrollTextField and BorderTextField
+
+
+Facade
+ - simplifies the interface to an object or a group of objects behind this facade
+ - used to harmonize different interfaces for one client
+
+Flyweight
+ - if lots of object from one class need to be constructed
+ - objects are shared to reduce memory load
